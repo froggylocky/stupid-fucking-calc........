@@ -39,7 +39,23 @@ body {
 
 .F {
     margin-top: 30px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    text-align: center
+}
+
+.R {
+    margin-top: 15px;
+    font-size: .8em
+}
+
+.R a {
+    color: rgba(255, 255, 255, .5);
+    text-decoration: none;
+    transition: .3s
+}
+
+.R a:hover {
+    color: #fff
 }
 
 .V {
