@@ -263,7 +263,9 @@ body {
 
 .e {
     background: #535e38;
-    font-weight: 700
+    font-weight: 700;
+    grid-column: span 5;
+    margin-top: 5px
 }
 
 .S {
